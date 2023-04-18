@@ -7,6 +7,6 @@
 date=$( date +%F)
 echo today date is $date
 
-ARTH=$((3+4/6))
+ARTH=$((3+4))
 
 echo ARTH = ${ARTH}
