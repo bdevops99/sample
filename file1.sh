@@ -5,3 +5,4 @@
 # date=2023-04-18
 # echo today date is ${date}
 date=$( date +%F)
+echo today date is $date
