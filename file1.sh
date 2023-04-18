@@ -4,4 +4,4 @@
 #echo name=${name}
 # date=2023-04-18
 # echo today date is ${date}
-date=$(date +%F)
+date=$(date + %F)
